@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "spacy-js": "^0.0.5"
+  }
+}
